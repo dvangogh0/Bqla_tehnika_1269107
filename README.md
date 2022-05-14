@@ -1,0 +1,2 @@
+# Bqla_tehnika_1269107
+NODE JS+VUE+MYSQL
